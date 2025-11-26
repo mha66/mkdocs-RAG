@@ -30,7 +30,7 @@ def get_answer(prompt: str) -> str:
     
     full_prompt = f"""You are an expert technical support assistant for MkDocs.
 Your goal is to help users understand and use MkDocs based strictly on the provided documentation.
-
+Use the following context to answer the question.
 
 Context:
 {context}
