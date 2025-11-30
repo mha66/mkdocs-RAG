@@ -2,6 +2,10 @@
 
 This project is a **Retrieval-Augmented Generation (RAG)** system designed to answer questions about [MkDocs](https://www.mkdocs.org/) based on its official documentation. It uses **Google Gemini 2.0 Flash** for reasoning and **ChromaDB** for semantic search, wrapped in a user-friendly **Streamlit** chat interface.
 
+## Screenshots
+<img width="1034" height="1208" alt="image" src="https://github.com/user-attachments/assets/8f7a21d0-6008-4879-886d-2f02e4c6889f" />
+
+
 ## 🚀 Features
 
 *   **RAG Pipeline**: Retrieves relevant documentation chunks to answer user queries accurately.
